@@ -19,10 +19,13 @@ Slides and research White Paper are [**in the docs folder**](https://github.com/
 
 ## Usage
 Prereq's to make this work properly with Kali Linux as of 9/10/20. Install will be problematic under python3. Use python2. 
+```
 sudo apt install python-pip
-sudo pip install hexdump
-sudo pip install enum34
 
+sudo pip install hexdump
+
+sudo pip install enum34
+```
 
 #### Download File
 ```bash
